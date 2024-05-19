@@ -27,9 +27,11 @@ Tableau, Google Colab, and Google Slides
 #### <ins>**Skill Sets**</ins>
 Data Visualization, Data Analysis, Customer Segmentation, Machine Learning, Predictive Modeling, Dashboard, Reporting skills, Presentation skills.
  
-#### <ins>**Dashboard**</ins>
-Click on [this](https://public.tableau.com/views/CustomerMarketingAnalytics/Summary?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) if you would like to go further to the dashboard.
-
+#### <ins>**Documentation**</ins>
+* **Presentation Deck**: [cm-analytics deck](https://github.com/fitria-dwi/Customer-Marketing-Analytics/blob/main/Slide_Customer%20Marketing%20Analytics_Fitria%20Dwi.pdf)
+* **Script Python**: [cm-analytics script](https://github.com/fitria-dwi/Customer-Marketing-Analytics/blob/main/Code_Script_Customer_Marketing_Analytics_Fitria_Dwi.ipynb)
+* **Dashboard**: [cm-analytics dashboard](https://public.tableau.com/views/CustomerMarketingAnalytics/Summary?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+  
 ![Preview](https://github.com/fitria-dwi/Customer-Marketing-Analytics/assets/74573342/d0cc7ed4-77a2-4008-95b5-e75bed37b925)
 
 #### <ins>**References**</ins>
