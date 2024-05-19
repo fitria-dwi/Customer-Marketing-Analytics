@@ -18,7 +18,7 @@ iFood is an online food ordering and delivery service in Brazil. The company has
 2. Build a model that predicts customer response to the next marketing campaign.
    
 #### <ins>**Results**</ins>
-1. Four customer segments so companies can implement personalized marketing strategies.
+1. There are four customer segments so companies can implement personalized marketing strategies.
 2. The XGBoost model is the best model for predicting which customers are most likely to respond to the next campaign, with an accuracy of 94%.
    
 #### <ins>**Tools**</ins>
