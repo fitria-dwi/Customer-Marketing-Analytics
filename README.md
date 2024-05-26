@@ -23,8 +23,8 @@ This project seeks to maximize customer value and improve campaign profitability
 * **Principle**: RFM (Recency, Frequency, Monetary) analysis.
 * **Method**: K-Means clustering to organize customers into specific groups based on shared characteristics or behavior.
 
-#### <code style="color : darkpurple">\Machine Learning</code>
-* **Purpose**: Build models to forecast customer responses to marketing campaigns.
+#### <code style="color : darkpurple">Machine Learning</code>
+* **Purpose**: Build models to predict customer responses to marketing campaigns.
 * **Algorithms**: Six different algorithms were evaluated to determine the best model.
   
 #### <code style="color : darkpurple">Dashboard Creation</code>
