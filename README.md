@@ -1,4 +1,4 @@
-# Customer Marketing Analytics, Segmentation and Prediction
+# Customer Marketing Analytics: Segmentation and Prediction
 
 _Created by Fitria Dwi Wulandari – February, 2024_
 
